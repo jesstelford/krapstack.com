@@ -1,0 +1,6 @@
+{
+  "name": "krapstack-com",
+  "version": 2,
+  "alias": "krapstack.com",
+  "github": { "enabled": true }
+}
